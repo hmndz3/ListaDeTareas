@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ListaDeTareas</string>
+    <string name="titulo_app">A por Ellas</string>
+    <string name="hint_nueva_tarea">Escribe una nueva tarea</string>
+    <string name="boton_agregar">Agregar</string>
+    <string name="mensaje_error">Por favor, escribe una tarea</string>
 </resources>
