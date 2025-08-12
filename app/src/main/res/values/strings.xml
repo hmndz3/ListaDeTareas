@@ -4,4 +4,8 @@
     <string name="hint_nueva_tarea">Escribe una nueva tarea</string>
     <string name="boton_agregar">Agregar</string>
     <string name="mensaje_error">Por favor, escribe una tarea</string>
+
+    <string name="tareas_terminadas">Tareas terminadas: %1$d</string>
+    <string name="desc_eliminar">Eliminar tarea</string>
+    <string name="desc_completar">Marcar como completada</string>
 </resources>
